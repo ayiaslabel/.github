@@ -1,4 +1,10 @@
-## Hi there 👋
+## This is DSC_LABEL_CO_LTD github Repository
+
+
+![dogesoundclubsince2021logo](https://user-images.githubusercontent.com/75651834/169849421-813359a8-3485-41ff-a869-0c74fade6f7a.png)
+
+
+
 
 <!--
 
