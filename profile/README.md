@@ -1,4 +1,4 @@
-## This is DSC_LABEL_CO_LTD github Repository
+## www.dsclabel.co.kr
 
 <!--
 
